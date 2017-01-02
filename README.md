@@ -1,3 +1,3 @@
 # zenderbookweb
 
-<a href='com.largerhope.zenderstore.Payments://test'>braintree custom url</a>
+<a href='com.your-company.Your-App.payments://test'>braintree custom url</a>
